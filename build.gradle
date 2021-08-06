@@ -1,0 +1,55 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.seleniumhq.selenium:selenium-java:3.141.59'
+    implementation 'org.testng:testng:7.1.0'
+
+
+}
+
+test {
+    useTestNG()
+}
+
+task reg(type: Test) {
+    useTestNG() {
+
+        def groups = System.getProperty('groups')//переменная groups
+        if (groups != null) //если не равна нулю, то
+        {
+            includeGroups groups //исполнить, включияя groups, у нас получается, что те классы, где есть "web" (см. testng.xml, который указывает на классы QuickTest и SmokeTest). Есть так же метод "исключяя", т. е. всё, кроме этих groups
+        }
+
+
+        def suite = System.getProperty('suite', '')//создадим переменную 'suite'
+        //выбираем, какую 'suite', т. е. класс с его тестами, запустить, указывая путь к классу
+        if (suite.equals('quick')) {
+            suites 'src/test/resources/quick.xml'
+        } else if (suite.equals('smoke')) {
+            suites 'src/test/resources/smoke.xml'
+        } else {
+            suites 'src/test/resources/testng.xml'
+        }
+
+    }
+
+
+
+
+
+
+//если браузер указан в кансоле, то берём его из кансоли
+    if (project.hasProperty('browser')) {
+        systemProperty 'browser', "${browser}"
+    }
+
+}
