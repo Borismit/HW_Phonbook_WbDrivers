@@ -39,6 +39,10 @@ public class UserHelper extends HelperBase{
     }
 
     public void logout() {
+        //
+        new WebDriverWait(wd,10)
+                .until(ExpectedConditions.visibilityOf(wd.findElement(By.xpath("//button[text()='Sign Out']"))));
+        //
         click(By.xpath("//button[text()='Sign Out']"));
     }
 }

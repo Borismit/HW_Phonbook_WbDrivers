@@ -1,5 +1,6 @@
 package models;
 
+//@ToString
 public class User {
     String email;
     String password;
@@ -21,4 +22,13 @@ public class User {
     public String getPassword() {
         return password;
     }
+    //
+    @Override
+    public String toString() {
+        return "User{" +
+                "email='" + email + '\'' +
+                ", password='" + password + '\'' +
+                '}';
+    }
+    //
 }
