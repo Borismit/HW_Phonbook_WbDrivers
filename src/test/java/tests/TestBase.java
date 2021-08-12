@@ -10,6 +10,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 public class TestBase {
 
@@ -19,25 +20,25 @@ public class TestBase {
    Logger logger= LoggerFactory.getLogger(TestBase.class);//создадим логер в классе TestBase
 
     @BeforeMethod(alwaysRun = true)
-    public void startLogger(Method m){
+    public void startLogger(Method m,Object[] p){
         logger.info("Start method -->"+m.getName() );
+        logger.info("Test Start with Data -->"+ Arrays.asList(p) );
         logger.info( "==================================================================");
     }
     @AfterMethod(alwaysRun = true)
     public void endLogger(Method m){
         logger.info("End of method -->"+m.getName());
     }
-   //
 
     @BeforeSuite(alwaysRun = true)//чтобы всегда запускался метод, а значит и браузер, поставим сюда alwaysRun = true
     public void init() {
-       app.start();
+        app.start();
     }
 
 
     @AfterSuite(alwaysRun = true)//чтобы всегда запускался метод, а значит закрывался браузер, поставим сюда alwaysRun = true
     public void tearDown() {
-       app.stop();
+        app.stop();
     }
 
 

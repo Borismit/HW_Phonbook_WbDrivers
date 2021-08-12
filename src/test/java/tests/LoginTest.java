@@ -12,8 +12,6 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-//
-//
 
 public class LoginTest extends TestBase{
 
@@ -45,7 +43,9 @@ public void precondition(){
 
     @Test
     public void loginTestWithWrongPassword(){
-        User user= new User().withEmail("noa@gmail.com").withPassword("Nnoa12345");//через "." выбираем только те поля, которые нам надо заполнить
+        User user= new User()
+                .withEmail("noa@gmail.com")
+                .withPassword("Nnoa12345");//через "." выбираем только те поля, которые нам надо заполнить
         app.userHelper().openLoginRegForm();
         app.userHelper().fillLoginRegForm(user);//в классе UserHelper создадим метод fillLoginForm(User user)
         app.userHelper().clickLoginButton();

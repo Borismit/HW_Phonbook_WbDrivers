@@ -14,6 +14,7 @@ public class AppManager {
    EventFiringWebDriver wd;//это какбы обёртка для прослушивания Event-ом событий Listener-ом (MyListener)
     UserHelper userHelper;
     String browser;
+    ContactHelper contact;
 
     //генерируем конструктор, который принимает стринг браузер: клик правой ->Generete...->constructor->browser:String
     public AppManager(String browser) { this.browser = browser; }
@@ -36,16 +37,18 @@ public class AppManager {
         wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         wd.navigate().to("https://contacts-app.tobbymarshall815.vercel.app/home");
         userHelper =new UserHelper(wd);//инициализируем userHalper
-
-
-
+        contact= new ContactHelper(wd);//инициализируем userHalper
 
     }
     public void stop(){
-        wd.quit();
+        //wd.quit();
     }
     //сгенерируем гетер по полю UserHalper, чтобы метод (поле) UserHalper был доступен (потом getUserHalper переименуем для краткости в userHalper ) его наследникам
     public UserHelper userHelper() {
         return userHelper;
+    }
+
+    public ContactHelper contact() {
+        return contact;
     }
 }
