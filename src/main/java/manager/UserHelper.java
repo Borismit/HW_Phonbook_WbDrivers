@@ -51,4 +51,11 @@ public class UserHelper extends HelperBase{
         pause(1000);
 
     }
+
+    //*
+    public void adContact(){
+
+
+    }
+    //*
 }

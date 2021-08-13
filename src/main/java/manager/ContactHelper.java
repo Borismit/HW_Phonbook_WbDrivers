@@ -4,6 +4,7 @@ import models.Contact;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 
 import java.util.List;
 
@@ -44,9 +45,16 @@ public class ContactHelper extends HelperBase{
     }
 
     public void removeOneContact() {
-        WebElement contact = wd.findElement(By.cssSelector(".contact-item_card__2SOIM"));
-        contact.click();
-        click(By.xpath("//button[.='Remove']"));
+
+
+        if(wd.findElements(By.cssSelector(".contact-item_card__2SOIM")).size() == 0) //если список пустой, добавим контакт
+        {
+            addContactTestBase();
+        }
+            WebElement contact = wd.findElement(By.cssSelector(".contact-item_card__2SOIM"));
+            contact.click();
+            click(By.xpath("//button[.='Remove']"));
+
     }
 
     public void removeAllContacts() {
@@ -64,4 +72,28 @@ public class ContactHelper extends HelperBase{
             pause(2000);
         }
     }
+
+    public void addContactTestBase() {
+
+          int i = (int)((System.currentTimeMillis())/1000)%3600;
+
+           Contact contact = Contact.builder()
+                 .name("Contact")
+                  .lastname("Add")
+                   .email("add"+i+"@mail.com")
+                    .phone("123456"+i)
+                  .address("Haifa")
+                   .description("friend")
+                    .build();
+
+           openFormContact();
+           fillFormContact(contact);
+           saveContact();
+            Assert.assertTrue(isContactAdded(contact.getPhone()));
+
+    }
+
+
+//     public boolean sizeContact(){ return wd.findElements(By.cssSelector(".contact-item_card__2SOIM")).size()>0; }
+
 }

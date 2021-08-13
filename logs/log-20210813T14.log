@@ -1,0 +1,559 @@
+14:02:44.640  INFO  manager.AppManager - Start in browser CHROME
+14:02:49.238  INFO  tests.TestBase - Start method -->addContactTestBase
+14:02:49.242  INFO  tests.TestBase - Test Start with Data -->[]
+14:02:49.244  INFO  tests.TestBase - ==================================================================
+14:02:49.254  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:02:59.364  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:02:59.365  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:02:59.398  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:02:59.898  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:02:59.933  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:00.189  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:00.218  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:00.463  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:00.493  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:01.646  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:02.655  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:02.871  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:02.909  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:03.085  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:03.104  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:03.268  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:03.296  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:03.494  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:03.515  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:03.720  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:03.754  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:03.980  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:04.007  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:04.193  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:04.212  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:04.274  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:05.022  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:05.066  INFO  tests.TestBase - End of method -->addContactTestBase
+14:03:05.068  INFO  tests.TestBase - Start method -->addContactTestBase
+14:03:05.071  INFO  tests.TestBase - Test Start with Data -->[]
+14:03:05.072  INFO  tests.TestBase - ==================================================================
+14:03:05.073  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:05.099  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:05.101  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:05.113  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:05.159  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:05.181  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:05.423  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:05.448  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:05.617  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:05.636  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:05.826  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:05.841  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:06.071  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:06.094  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:06.259  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:06.284  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:06.466  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:06.494  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:06.550  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:07.628  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:07.680  INFO  tests.TestBase - End of method -->addContactTestBase
+14:03:07.682  INFO  tests.TestBase - Start method -->addContactTestBase
+14:03:07.682  INFO  tests.TestBase - Test Start with Data -->[]
+14:03:07.682  INFO  tests.TestBase - ==================================================================
+14:03:07.683  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:07.706  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:07.707  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:07.721  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:07.762  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:07.785  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:07.991  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:08.007  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:08.158  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:08.181  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:08.356  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:08.370  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:08.549  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:08.576  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:08.754  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:08.780  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:08.967  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:08.988  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:09.041  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:09.594  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:09.683  INFO  tests.TestBase - End of method -->addContactTestBase
+14:03:09.895  INFO  tests.TestBase - Start method -->addContactTestCSV
+14:03:10.021  INFO  tests.TestBase - Test Start with Data -->[Contact(name=Mona, lastname=Dow, email=dow2@gmail.com, phone=9877776503, address=Haifa Herzel3, description=university friend)]
+14:03:10.021  INFO  tests.TestBase - ==================================================================
+14:03:10.022  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:10.049  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:10.050  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:10.065  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:10.146  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:10.533  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:10.799  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:10.815  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:11.006  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:11.021  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:11.343  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:11.366  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:11.560  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:11.600  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:11.817  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:11.837  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:12.030  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:12.057  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:12.108  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:13.302  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:13.385  INFO  tests.TestBase - End of method -->addContactTestCSV
+14:03:13.386  INFO  tests.TestBase - Start method -->addContactTestCSV
+14:03:13.387  INFO  tests.TestBase - Test Start with Data -->[Contact(name=Mona, lastname=Dow, email=dow3@gmail.com, phone=9877776665, address=Haifa Herzel3, description=university friend)]
+14:03:13.387  INFO  tests.TestBase - ==================================================================
+14:03:13.388  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:13.425  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:13.426  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:13.447  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:13.527  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:13.548  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:13.738  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:13.759  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:13.930  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:13.950  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:14.120  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:14.137  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:14.311  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:14.328  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:14.502  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:14.519  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:14.714  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:14.738  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:14.791  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:15.164  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:15.274  INFO  tests.TestBase - End of method -->addContactTestCSV
+14:03:15.276  INFO  tests.TestBase - Start method -->addContactTestDataProvider
+14:03:15.277  INFO  tests.TestBase - Test Start with Data -->[Mona, Dow, 9877776500, dow77@gmail.co, Haifa Herzel3, university friend]
+14:03:15.277  INFO  tests.TestBase - ==================================================================
+14:03:15.277  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:15.302  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:15.303  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:15.319  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:15.364  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:15.388  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:15.592  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:15.605  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:15.753  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:15.776  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:15.945  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:15.967  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:16.143  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:16.155  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:16.330  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:16.343  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:16.540  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:16.566  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:16.617  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:17.377  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:17.493  INFO  tests.TestBase - End of method -->addContactTestDataProvider
+14:03:17.495  INFO  tests.TestBase - Start method -->addContactTestDataProvider
+14:03:17.495  INFO  tests.TestBase - Test Start with Data -->[Mona, Dow, 9817776500, dow78@gmail.co, Haifa Herzel3, university friend]
+14:03:17.495  INFO  tests.TestBase - ==================================================================
+14:03:17.496  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:17.517  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:17.517  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:17.532  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:17.576  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:17.607  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:17.782  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:17.803  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:17.953  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:17.977  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:18.144  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:18.167  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:18.345  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:18.358  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:18.540  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:18.562  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:18.746  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:18.767  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:18.823  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:19.476  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:19.608  INFO  tests.TestBase - End of method -->addContactTestDataProvider
+14:03:19.610  INFO  tests.TestBase - Start method -->addContactTestDataProvider
+14:03:19.610  INFO  tests.TestBase - Test Start with Data -->[Mona, Dow, 9827776500, dow79@gmail.co, Haifa Herzel3, university friend]
+14:03:19.610  INFO  tests.TestBase - ==================================================================
+14:03:19.611  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:19.635  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:19.636  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:19.656  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:19.731  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:03:19.755  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:03:19.964  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:03:19.983  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:03:20.142  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:03:20.159  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:03:20.323  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:03:20.335  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:03:20.508  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:03:20.521  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:03:20.692  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:03:20.707  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:03:20.888  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:03:20.918  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:03:20.981  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:03:21.509  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:03:21.667  INFO  tests.TestBase - End of method -->addContactTestDataProvider
+14:03:21.670  INFO  tests.TestBase - Start method -->loginTestBase
+14:03:21.670  INFO  tests.TestBase - Test Start with Data -->[]
+14:03:21.670  INFO  tests.TestBase - ==================================================================
+14:03:21.671  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:21.700  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:21.717  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:21.735  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:21.853  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:21.872  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:21.939  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:21.969  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:22.028  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:22.054  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:22.287  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:22.307  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:22.494  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:22.514  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:22.576  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:22.838  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:22.840  INFO  tests.TestBase - End of method -->loginTestBase
+14:03:22.846  INFO  tests.TestBase - Start method -->loginTestDP_CSV
+14:03:22.867  INFO  tests.TestBase - Test Start with Data -->[User{email='noa@gmail.com', password='Nnoa12345$'}]
+14:03:22.867  INFO  tests.TestBase - ==================================================================
+14:03:22.868  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:22.885  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:22.886  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:22.909  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:22.946  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:22.969  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:23.073  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:23.097  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:23.159  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:23.186  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:23.389  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:23.404  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:23.579  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:23.593  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:23.647  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:23.923  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:23.924  INFO  tests.TestBase - End of method -->loginTestDP_CSV
+14:03:23.925  INFO  tests.TestBase - Start method -->loginTestDP_CSV
+14:03:23.926  INFO  tests.TestBase - Test Start with Data -->[User{email='noa@gmail.com', password='Nnoa12345$'}]
+14:03:23.926  INFO  tests.TestBase - ==================================================================
+14:03:23.926  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:23.938  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:23.939  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:23.954  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:23.990  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:24.016  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:24.093  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:24.124  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:24.185  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:24.209  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:24.390  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:24.415  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:24.598  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:24.615  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:24.668  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:25.021  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:25.022  INFO  tests.TestBase - End of method -->loginTestDP_CSV
+14:03:25.024  INFO  tests.TestBase - Start method -->loginTestDP_CSV
+14:03:25.025  INFO  tests.TestBase - Test Start with Data -->[User{email='noa@gmail.com', password='Nnoa12345$'}]
+14:03:25.025  INFO  tests.TestBase - ==================================================================
+14:03:25.026  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:25.039  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:25.040  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:25.055  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:25.089  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:25.101  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:25.162  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:25.190  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:25.254  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:25.278  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:25.450  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:25.466  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:25.634  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:25.657  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:25.707  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:26.238  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:26.239  INFO  tests.TestBase - End of method -->loginTestDP_CSV
+14:03:26.242  INFO  tests.TestBase - Start method -->loginTestDataProvider
+14:03:26.242  INFO  tests.TestBase - Test Start with Data -->[noa@gmail.com, Nnoa12345$]
+14:03:26.242  INFO  tests.TestBase - ==================================================================
+14:03:26.243  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:26.265  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:26.265  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:26.278  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:26.313  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:26.325  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:26.384  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:26.415  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:26.478  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:26.503  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:26.676  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:26.691  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:26.881  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:26.897  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:28.962  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:28.988  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:28.989  INFO  tests.TestBase - End of method -->loginTestDataProvider
+14:03:28.990  INFO  tests.TestBase - Start method -->loginTestDataProvider
+14:03:28.990  INFO  tests.TestBase - Test Start with Data -->[sonya@gmail.com, Ss12345$]
+14:03:28.990  INFO  tests.TestBase - ==================================================================
+14:03:28.991  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:29.002  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:29.002  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:29.017  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:29.038  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:29.048  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:29.110  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:29.132  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:29.196  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:29.221  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:29.391  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:29.410  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:29.573  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:29.586  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:31.641  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:31.666  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:31.667  INFO  tests.TestBase - End of method -->loginTestDataProvider
+14:03:31.668  INFO  tests.TestBase - Start method -->loginTestDataProvider
+14:03:31.668  INFO  tests.TestBase - Test Start with Data -->[noa@gmail.com, Nnoa12345$]
+14:03:31.668  INFO  tests.TestBase - ==================================================================
+14:03:31.669  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:31.681  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:31.681  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:31.695  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:31.718  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:31.744  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:31.806  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:31.832  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:31.897  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:31.921  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:32.089  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:32.107  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:32.277  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:32.300  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:34.361  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:34.387  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:34.388  INFO  tests.TestBase - End of method -->loginTestDataProvider
+14:03:34.390  INFO  tests.TestBase - Start method -->loginTestDataProviderClass
+14:03:34.390  INFO  tests.TestBase - Test Start with Data -->[noa@gmail.com, Nnoa12345$]
+14:03:34.390  INFO  tests.TestBase - ==================================================================
+14:03:34.391  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:34.417  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:34.417  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:34.434  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:34.469  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:34.481  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:34.572  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:34.597  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:34.669  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:34.688  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:34.859  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:34.878  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:35.043  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:35.064  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:37.134  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:37.160  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:37.162  INFO  tests.TestBase - End of method -->loginTestDataProviderClass
+14:03:37.163  INFO  tests.TestBase - Start method -->loginTestDataProviderClass
+14:03:37.163  INFO  tests.TestBase - Test Start with Data -->[sonya@gmail.com, Ss12345$]
+14:03:37.163  INFO  tests.TestBase - ==================================================================
+14:03:37.163  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:37.175  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:37.176  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:37.191  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:37.212  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:37.238  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:37.304  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:37.336  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:37.402  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:37.427  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:37.630  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:37.645  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:37.804  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:37.818  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:39.881  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:39.907  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:39.908  INFO  tests.TestBase - End of method -->loginTestDataProviderClass
+14:03:39.909  INFO  tests.TestBase - Start method -->loginTestDataProviderClass
+14:03:39.909  INFO  tests.TestBase - Test Start with Data -->[noa@gmail.com, Nnoa12345$]
+14:03:39.909  INFO  tests.TestBase - ==================================================================
+14:03:39.910  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:39.921  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:39.922  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:39.937  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:39.958  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:39.984  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:40.059  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:40.079  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:40.133  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:40.159  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:40.329  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:40.347  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:40.515  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:40.537  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:42.594  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:42.619  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:42.620  INFO  tests.TestBase - End of method -->loginTestDataProviderClass
+14:03:42.622  INFO  tests.TestBase - Start method -->loginTestPositiveNewContact
+14:03:42.622  INFO  tests.TestBase - Test Start with Data -->[]
+14:03:42.622  INFO  tests.TestBase - ==================================================================
+14:03:42.622  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:42.634  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:42.634  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:42.649  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:42.672  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:42.697  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:42.775  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:42.796  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:42.854  INFO  manager.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+14:03:42.878  INFO  manager.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+14:03:43.055  INFO  manager.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+14:03:43.085  INFO  manager.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+14:03:43.262  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+14:03:43.289  INFO  manager.MyListener - The element -->By.xpath: //button[.=' Login']was found
+14:03:45.369  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:03:45.402  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:03:45.432  INFO  tests.TestBase - End of method -->loginTestPositiveNewContact
+14:03:45.433  INFO  tests.TestBase - Start method -->loginTestWithWrongPassword
+14:03:45.434  INFO  tests.TestBase - Test Start with Data -->[]
+14:03:45.434  INFO  tests.TestBase - ==================================================================
+14:03:45.434  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:45.459  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:45.459  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:45.470  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:45.492  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:45.503  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:45.568  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:03:45.593  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:03:45.654  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:03:45.679  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:03:45.858  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:03:45.883  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:03:46.044  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:03:46.057  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:03:46.792  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:03:56.814  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:03:56.815  INFO  tests.TestBase - End of method -->loginTestWithWrongPassword
+14:03:56.817  INFO  tests.TestBase - Start method -->quicktest
+14:03:56.817  INFO  tests.TestBase - Test Start with Data -->[]
+14:03:56.817  INFO  tests.TestBase - ==================================================================
+14:03:56.818  INFO  tests.TestBase - End of method -->quicktest
+14:03:56.820  INFO  tests.TestBase - Start method -->removeAllContacts
+14:03:56.821  INFO  tests.TestBase - Test Start with Data -->[]
+14:03:56.821  INFO  tests.TestBase - ==================================================================
+14:03:56.822  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:04:06.888  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:04:06.888  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:04:06.911  INFO  manager.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:04:06.991  INFO  manager.MyListener - Start find element by -->By.xpath: //input[1]
+14:04:07.024  INFO  manager.MyListener - The element -->By.xpath: //input[1]was found
+14:04:07.226  INFO  manager.MyListener - Start find element by -->By.xpath: //input[2]
+14:04:07.243  INFO  manager.MyListener - The element -->By.xpath: //input[2]was found
+14:04:07.443  INFO  manager.MyListener - Start find element by -->By.xpath: //button[1]
+14:04:07.465  INFO  manager.MyListener - The element -->By.xpath: //button[1]was found
+14:04:08.537  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:08.568  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:08.569  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:08.596  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:08.596  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:08.613  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:08.680  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:08.712  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:10.774  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:10.799  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:10.800  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:10.813  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:10.814  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:10.828  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:10.872  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:10.897  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:12.954  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:12.981  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:12.981  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:12.994  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:12.995  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:13.010  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:13.062  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:13.077  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:15.130  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:15.156  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:15.156  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:15.170  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:15.170  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:15.184  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:15.232  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:15.253  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:17.322  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:17.347  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:17.348  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:17.361  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:17.362  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:17.377  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:17.424  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:17.458  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:19.529  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:19.554  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:19.555  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:19.567  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:19.568  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:19.584  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:19.628  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:19.649  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:21.709  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:21.736  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:21.736  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:21.749  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:21.749  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:21.765  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:21.828  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:21.852  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:23.934  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:23.959  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:23.959  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:23.973  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:23.973  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:23.989  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:24.030  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:24.054  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:26.134  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:36.183  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:36.184  INFO  tests.TestBase - End of method -->removeAllContacts
+14:04:36.185  INFO  tests.TestBase - Start method -->removeOneContact
+14:04:36.185  INFO  tests.TestBase - Test Start with Data -->[]
+14:04:36.185  INFO  tests.TestBase - ==================================================================
+14:04:36.186  INFO  manager.MyListener - Start find element by -->By.xpath: //button[text()='Sign Out']
+14:04:36.200  INFO  manager.MyListener - The element -->By.xpath: //button[text()='Sign Out']was found
+14:04:36.200  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:46.234  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:46.235  INFO  manager.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:04:46.258  INFO  manager.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:04:46.347  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:04:46.378  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:04:46.544  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:04:46.574  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:04:46.722  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:04:46.750  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:04:46.926  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:04:46.953  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:04:47.141  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:04:47.158  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:04:47.309  INFO  manager.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:04:47.331  INFO  manager.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:04:47.490  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Save']
+14:04:47.522  INFO  manager.MyListener - The element -->By.xpath: //button[.='Save']was found
+14:04:47.583  INFO  manager.MyListener - Start find element by -->By.xpath: //h3
+14:04:49.716  INFO  manager.MyListener - The element -->By.xpath: //h3was found
+14:04:49.746  INFO  manager.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:04:49.760  INFO  manager.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:04:49.816  INFO  manager.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:04:49.839  INFO  manager.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:04:49.891  INFO  tests.TestBase - End of method -->removeOneContact
+14:04:49.892  INFO  tests.TestBase - Start method -->smokeTest
+14:04:49.892  INFO  tests.TestBase - Test Start with Data -->[]
+14:04:49.892  INFO  tests.TestBase - ==================================================================
+14:04:49.894  INFO  tests.TestBase - End of method -->smokeTest
