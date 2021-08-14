@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-02T14:58:19" hostname="DESKTOP-AUD0KO0" time="0.002">
+  <properties/>
+  <testcase name="quicktest" classname="tests.QuickTest" time="0.002"/>
+  <system-out><![CDATA[Im Quick test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

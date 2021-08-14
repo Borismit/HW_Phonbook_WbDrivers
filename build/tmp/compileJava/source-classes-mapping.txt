@@ -1,0 +1,17 @@
+manager/MyListener.java
+ manager.MyListener
+manager/MyDataProvider.java
+ manager.MyDataProvider
+models/Contact.java
+ models.Contact
+ models.Contact$ContactBuilder
+models/User.java
+ models.User
+manager/HelperBase.java
+ manager.HelperBase
+manager/UserHelper.java
+ manager.UserHelper
+manager/AppManager.java
+ manager.AppManager
+manager/ContactHelper.java
+ manager.ContactHelper

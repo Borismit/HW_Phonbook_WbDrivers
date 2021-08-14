@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-14T13:37:23" hostname="DESKTOP-AUD0KO0" time="0.0">
+  <properties/>
+  <testcase name="quicktest" classname="tests.QuickTest" time="0.0"/>
+  <system-out><![CDATA[16:37:23.740  INFO  tests.TestBase - Start method -->quicktest
+16:37:23.741  INFO  tests.TestBase - Test Start with Data -->[]
+16:37:23.741  INFO  tests.TestBase - ==================================================================
+Im Quick test
+16:37:23.742  INFO  tests.TestBase - End of method -->quicktest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
