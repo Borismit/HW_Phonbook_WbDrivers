@@ -1,7 +1,7 @@
-manager/MyListener.java
- manager.MyListener
-manager/MyDataProvider.java
- manager.MyDataProvider
+manager/AppManager.java
+ manager.AppManager
+manager/ContactHelper.java
+ manager.ContactHelper
 models/Contact.java
  models.Contact
  models.Contact$ContactBuilder
@@ -11,7 +11,7 @@ manager/HelperBase.java
  manager.HelperBase
 manager/UserHelper.java
  manager.UserHelper
-manager/AppManager.java
- manager.AppManager
-manager/ContactHelper.java
- manager.ContactHelper
+manager/MyDataProvider.java
+ manager.MyDataProvider
+manager/MyListener.java
+ manager.MyListener

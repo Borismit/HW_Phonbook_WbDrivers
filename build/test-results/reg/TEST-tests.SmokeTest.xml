@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.SmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-02T14:58:19" hostname="DESKTOP-AUD0KO0" time="0.002">
+<testsuite name="tests.SmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-23T05:24:19" hostname="DESKTOP-AUD0KO0" time="0.002">
   <properties/>
   <testcase name="smokeTest" classname="tests.SmokeTest" time="0.002"/>
-  <system-out><![CDATA[Im Smoke Test 
+  <system-out><![CDATA[08:24:19.233  INFO  tests.TestBase - Start method -->smokeTest
+08:24:19.236  INFO  tests.TestBase - Test Start with Data -->[]
+08:24:19.236  INFO  tests.TestBase - ==================================================================
+Im Smoke Test 
+08:24:19.258  INFO  tests.TestBase - End of method -->smokeTest
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,0 +1,9 @@
+07:54:05.285  INFO  manager.AppManager - Start in browser CHROME
+07:54:16.211  INFO  tests.TestBase - Start method -->smokeTest
+07:54:16.215  INFO  tests.TestBase - Test Start with Data -->[]
+07:54:16.216  INFO  tests.TestBase - ==================================================================
+07:54:16.240  INFO  tests.TestBase - End of method -->smokeTest
+07:54:16.271  INFO  tests.TestBase - Start method -->quicktest
+07:54:16.272  INFO  tests.TestBase - Test Start with Data -->[]
+07:54:16.273  INFO  tests.TestBase - ==================================================================
+07:54:16.277  INFO  tests.TestBase - End of method -->quicktest

@@ -16,7 +16,7 @@ public class TestBase {
 
    protected static AppManager app = new AppManager(System.getProperty("browser", BrowserType.CHROME));//если в консоле не указан браузер, то запустится, указанный здесь, BrowserType.CHROME, если указан, то подставится сюда по ключу key "browser"
 
-   //
+
    Logger logger= LoggerFactory.getLogger(TestBase.class);//создадим логер в классе TestBase
 
     @BeforeMethod(alwaysRun = true)
